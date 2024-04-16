@@ -26,6 +26,7 @@ Visualization and Reporting:
 
 6.Utilized Tableau to create interactive visualizations that provide a concise overview of key findings.
 Designed dashboards and reports to facilitate decision-making and strategy development for Sales Director Bruce Haryali.
+LINK OF VIZUALIZATION = https://public.tableau.com/views/AtiqMartFestiveSeasonCampaignInsights/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 __Contents:__
 Data: Contains the raw data files and SQL scripts for data import and cleaning.
