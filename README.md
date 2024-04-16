@@ -1,4 +1,5 @@
-<span style="font-size: 24px; font-weight: bold;">Project Title: Sales Insights and Visualization for AtliQ Mart</span>
+**<span style="font-size: 24px;">Project Title: Sales Insights and Visualization for AtliQ Mart</span>**
+
 
 
 Description:
