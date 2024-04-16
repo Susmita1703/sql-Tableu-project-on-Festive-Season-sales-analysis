@@ -27,13 +27,13 @@ Visualization and Reporting:
 6.Utilized Tableau to create interactive visualizations that provide a concise overview of key findings.
 Designed dashboards and reports to facilitate decision-making and strategy development for Sales Director Bruce Haryali.
 
-**Contents:**
+__Contents:__
 Data: Contains the raw data files and SQL scripts for data import and cleaning.
 Analysis: Includes SQL queries and scripts for data analysis and addressing business questions.
 Visualization: Contains Tableau workbooks and visualizations for easy access and reference.
 Documentation: Provides detailed documentation, including this README file, to guide users through the project.
 
-##Contact:##
+##**Contact:**
 For inquiries or feedback, please contact:
 
 Susmita poddar
