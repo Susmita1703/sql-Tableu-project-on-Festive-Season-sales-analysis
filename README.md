@@ -6,6 +6,7 @@
 This project aims to provide actionable insights and visualizations to Sales Director Bruce Haryali of AtliQ Mart, a leading FMCG retailer in southern India. The project analyzes sales data from four Excel sheets and performs exploratory data analysis (EDA) to uncover patterns and trends. Utilizing SQL for data cleaning and analysis, the project addresses business questions and requests, ultimately presenting findings through interactive visualizations created in Tableau.
 
 **Project Workflow:**
+
 1.Data Collection and Understanding:
 
 2.Analyzed sales data provided in four Excel sheets.
@@ -35,8 +36,6 @@ Visualization: Contains Tableau workbooks and visualizations for easy access and
 Documentation: Provides detailed documentation, including this README file, to guide users through the project.
 
 **Contact:**
-For inquiries or feedback, please contact:
-
-Susmita poddar
+For inquiries or feedback, please contact:Susmita poddar
 
 susmitapoddar1704@gmail.com 
