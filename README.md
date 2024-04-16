@@ -33,9 +33,8 @@ Analysis: Includes SQL queries and scripts for data analysis and addressing busi
 Visualization: Contains Tableau workbooks and visualizations for easy access and reference.
 Documentation: Provides detailed documentation, including this README file, to guide users through the project.
 
-##**Contact:**
+**Contact:**
 For inquiries or feedback, please contact:
 
 Susmita poddar
-
 susmitapoddar1704@gmail.com 
