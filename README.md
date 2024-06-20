@@ -22,6 +22,8 @@ Documentation: Provides detailed documentation, including this README file, to g
 
 1.Data Collection and Understanding
 
+create table to collect data [file here](https://github.com/Susmita1703/Festive-Season-Campaign-sales-analysis/blob/main/Tables%20in%20sql.sql)
+
 2.Analyzed sales data provided in four Excel sheets.
 Identified fact_events table as the primary dataset containing crucial information.
 Data Import and Cleaning:
