@@ -12,7 +12,6 @@
   <li>Address business questions and requests.</li>
   <li>Present patterns and trends through interactive visualizations created in Tableau.</li>
 </ul>
-<style>
 
 ### Contents
 Data: Contains the raw data files and SQL scripts for data import and cleaning.
