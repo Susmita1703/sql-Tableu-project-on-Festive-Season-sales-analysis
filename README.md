@@ -5,7 +5,7 @@
 ## Objective 🎯
 
 <ul style="animation: fadeIn 3s;">
-  <li>To provide actionable insights and visualizations to the Sales Director of AtliQ Mart, a leading FMCG retailer in southern India.</li>
+  <li>Provide actionable insights and visualizations to the Sales Director of AtliQ Mart, a leading FMCG retailer in southern India.</li>
   <li>Analyze sales data from four Excel sheets.</li>
   <li>Perform exploratory data analysis (EDA) to uncover patterns and trends.</li>
   <li>Utilize SQL for data cleaning and analysis.</li>
@@ -13,15 +13,6 @@
   <li>Present patterns and trends through interactive visualizations created in Tableau.</li>
 </ul>
 <style>
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-ul {
-  animation: fadeIn 2s;
-}
-</style>
 
 ### Contents
 Data: Contains the raw data files and SQL scripts for data import and cleaning.
