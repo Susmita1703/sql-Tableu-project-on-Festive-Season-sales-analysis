@@ -33,6 +33,7 @@ finding issues in data [assesment of data](https://github.com/Susmita1703/Festiv
 3.Data Import and Cleaning:Transferred data from Excel sheets to SQL database.
 Studied column attributes and cleaned the data to ensure accuracy and consistency.
 [click here to see the raw data](https://github.com/Susmita1703/Festive-Season-Campaign-sales-analysis/tree/main/dataset)
+
 Data cleaning steps[click here](https://github.com/Susmita1703/Festive-Season-Campaign-sales-analysis/blob/main/data%20cleaning.sql)
 
 4.Exploratory Data Analysis (EDA):Conducted EDA to gain insights into sales trends, patterns, and anomalies.
@@ -41,9 +42,10 @@ Generated descriptive statistics and visualizations to explore data distribution
 
 5.Formulating Business Questions:Formulated business questions based on EDA findings and domain knowledge.
 Designed SQL queries to address business requests and extract relevant insights.
-Visualization and Reporting:
+Details of business request [file](https://github.com/Susmita1703/Festive-Season-Campaign-sales-analysis/blob/main/Business%20requests)
 
-6.Utilized Tableau to create interactive visualizations that provide a concise overview of key findings.
+
+6.Visualization and Reporting:Utilized Tableau to create interactive visualizations that provide a concise overview of key findings.
 Designed dashboards and reports to facilitate decision-making and strategy development for Sales Director Bruce Haryali.
 LINK OF VIZUALIZATION = https://public.tableau.com/views/AtiqMartFestiveSeasonCampaignInsights/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
