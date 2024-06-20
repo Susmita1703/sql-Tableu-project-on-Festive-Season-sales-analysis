@@ -4,11 +4,16 @@
 
 ## Objective 🎯
 
-Provide actionable insights and visualizations to Sales Director  of AtliQ Mart, a leading FMCG retailer in southern India.
+To Provide actionable insights and visualizations to Sales Director  of AtliQ Mart, a leading FMCG retailer in southern India.
+
 Analyze sales data from four Excel sheets.
+
 Perform exploratory data analysis (EDA) to uncover patterns and trends.
+
 Utilize SQL for data cleaning and analysis.
+
 Address business questions and requests.
+
 Present patterns and trends through interactive visualizations created in Tableau.
 
 ### Contents
