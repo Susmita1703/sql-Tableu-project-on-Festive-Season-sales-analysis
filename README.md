@@ -36,6 +36,7 @@ Studied column attributes and cleaned the data to ensure accuracy and consistenc
 
 4.Exploratory Data Analysis (EDA):Conducted EDA to gain insights into sales trends, patterns, and anomalies.
 Generated descriptive statistics and visualizations to explore data distributions and relationships.
+[The EDA file](https://github.com/Susmita1703/Festive-Season-Campaign-sales-analysis/blob/main/EDA%20ON%20DATA.sql)
 
 5.Formulating Business Questions:Formulated business questions based on EDA findings and domain knowledge.
 Designed SQL queries to address business requests and extract relevant insights.
