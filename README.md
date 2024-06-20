@@ -52,6 +52,9 @@ queries to find the answers of [business request](https://github.com/Susmita1703
 Designed dashboards and reports to facilitate decision-making and strategy development for Sales Director Bruce Haryali.
 [LINK OF VIZUALIZATION](https://public.tableau.com/views/AtiqMartFestiveSeasonCampaignInsights/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
+**7.conclusions and suggesions out of findings**
+[conclusion file](https://github.com/Susmita1703/Festive-Season-Campaign-sales-analysis/blob/main/conclusion%20and%20suggesions.pdf)
+
 
 **Contact:**
 For inquiries or feedback, please contact:Susmita poddar
