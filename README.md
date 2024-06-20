@@ -26,6 +26,7 @@ create table to collect data [file here](https://github.com/Susmita1703/Festive-
 
 2.Analyzed sales data provided in four Excel sheets.
 Identified fact_events table as the primary dataset containing crucial information.
+[Description about data](https://github.com/Susmita1703/Festive-Season-Campaign-sales-analysis/blob/main/Description%20about%20data.sql)
 Data Import and Cleaning:
 
 3.Transferred data from Excel sheets to SQL database.
