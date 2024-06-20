@@ -33,6 +33,7 @@ finding issues in data [assesment of data](https://github.com/Susmita1703/Festiv
 3.Data Import and Cleaning:Transferred data from Excel sheets to SQL database.
 Studied column attributes and cleaned the data to ensure accuracy and consistency.
 [click here to see the raw data](https://github.com/Susmita1703/Festive-Season-Campaign-sales-analysis/tree/main/dataset)
+Data cleaning steps[click here](https://github.com/Susmita1703/Festive-Season-Campaign-sales-analysis/blob/main/data%20cleaning.sql)
 
 4.Exploratory Data Analysis (EDA):Conducted EDA to gain insights into sales trends, patterns, and anomalies.
 Generated descriptive statistics and visualizations to explore data distributions and relationships.
