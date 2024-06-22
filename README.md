@@ -13,16 +13,19 @@
   <li>Present patterns and trends through interactive visualizations created in Tableau.</li>
 </ul>
 
-### Contents
-Data: Contains the raw data files and SQL scripts for data import and cleaning.
-Analysis: Includes SQL queries and scripts for data analysis and addressing business questions.
-Visualization: Contains Tableau workbooks and visualizations for easy access and reference.
-Documentation: Provides detailed documentation, including this README file, to guide users through the project.
+### Contents 📝
+**Data:** Contains the raw data files and SQL scripts for data import and cleaning.
+
+**Analysis:** Includes SQL queries and scripts for data analysis and addressing business questions.
+
+**Visualization:** Contains Tableau workbooks and visualizations for easy access and reference.
+
+**Documentation:** Provides detailed documentation, including this README file, to guide users through the project.
 
 
 ### Project Workflow:
 
-**1.Data Collection and Understanding**
+#### 1.Data Collection and Understanding
 
  create table to collect data [file here](https://github.com/Susmita1703/Festive-Season-Campaign-sales-analysis/blob/main/Tables%20in%20sql.sql)
 
