@@ -1,4 +1,4 @@
-# To Analyzing Patterns and Trends Using SQL and Tableau Visualization
+
 
 
 
@@ -8,7 +8,7 @@
   <li>Provide actionable insights and visualizations to the Sales Director of AtliQ Mart, a leading FMCG retailer in southern India.</li>
   <li>Analyze sales data from four Excel sheets.</li>
   <li>Perform exploratory data analysis (EDA) to uncover patterns and trends.</li>
-  <li>Utilize SQL for data cleaning and analysis.</li>
+  <li>Data cleaning uysing sql.</li>
   <li>Address business questions and requests.</li>
   <li>Present patterns and trends through interactive visualizations created in Tableau.</li>
 </ul>
@@ -27,7 +27,7 @@
 
 #### 1.Data Collection and Understanding
 
- create table to collect data [file here](https://github.com/Susmita1703/Festive-Season-Campaign-sales-analysis/blob/main/Tables%20in%20sql.sql)
+ created table and collected data [file here](https://github.com/Susmita1703/Festive-Season-Campaign-sales-analysis/blob/main/Tables%20in%20sql.sql)
 
 **2.Analyzed sales data provided in four Excel sheets.**
 Identified fact_events table as the primary dataset containing crucial information.
